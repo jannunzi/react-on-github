@@ -1,18 +1,16 @@
 {
-  "main.css": "/react-on-github/static/css/main.3c4d53a3.chunk.css",
-  "main.js": "/react-on-github/static/js/main.3d285493.chunk.js",
-  "main.js.map": "/react-on-github/static/js/main.3d285493.chunk.js.map",
-  "static/js/1.4587b355.chunk.js": "/react-on-github/static/js/1.4587b355.chunk.js",
-  "static/js/1.4587b355.chunk.js.map": "/react-on-github/static/js/1.4587b355.chunk.js.map",
-  "static/css/2.2d414ad6.chunk.css": "/react-on-github/static/css/2.2d414ad6.chunk.css",
-  "static/js/2.92a28f8e.chunk.js": "/react-on-github/static/js/2.92a28f8e.chunk.js",
-  "static/js/2.92a28f8e.chunk.js.map": "/react-on-github/static/js/2.92a28f8e.chunk.js.map",
-  "runtime~main.js": "/react-on-github/static/js/runtime~main.5c3ee2da.js",
-  "runtime~main.js.map": "/react-on-github/static/js/runtime~main.5c3ee2da.js.map",
-  "static/media/logo.svg": "/react-on-github/static/media/logo.06e73328.svg",
-  "static/css/2.2d414ad6.chunk.css.map": "/react-on-github/static/css/2.2d414ad6.chunk.css.map",
-  "static/css/main.3c4d53a3.chunk.css.map": "/react-on-github/static/css/main.3c4d53a3.chunk.css.map",
-  "index.html": "/react-on-github/index.html",
-  "precache-manifest.805461f1ac144d7e8b55ba6fefb3800a.js": "/react-on-github/precache-manifest.805461f1ac144d7e8b55ba6fefb3800a.js",
-  "service-worker.js": "/react-on-github/service-worker.js"
+  "files": {
+    "main.css": "/react-on-github/static/css/main.08aabb56.css",
+    "main.js": "/react-on-github/static/js/main.76919471.js",
+    "static/js/787.43fe83c6.chunk.js": "/react-on-github/static/js/787.43fe83c6.chunk.js",
+    "static/media/logo.svg": "/react-on-github/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-on-github/index.html",
+    "main.08aabb56.css.map": "/react-on-github/static/css/main.08aabb56.css.map",
+    "main.76919471.js.map": "/react-on-github/static/js/main.76919471.js.map",
+    "787.43fe83c6.chunk.js.map": "/react-on-github/static/js/787.43fe83c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08aabb56.css",
+    "static/js/main.76919471.js"
+  ]
 }
